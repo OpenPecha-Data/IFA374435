@@ -1,0 +1,65 @@
+id: IFA374435
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:11:59.880285'
+last_modified: '2022-05-30T22:11:59.880303'
+parser: null
+source_metadata:
+  title: Khenchen Ngawang Palzang Series
+  language: de
+  description: 'Texts by the great Dzogchen master Khenchen Ngawang Palzang (ngag
+    dbang dpal bzang, 1879–1941), also known as Khenpo Ngakchung:'
+  volume:
+    fF9F9:
+      title: Seeds of the Four Philosophical Schools
+      base_file: fF9F9.txt
+      order: 1
+      parent: Buddhist Philosophy
+    fC743:
+      title: 'Gyang Lu: A Song of Calling from Afar'
+      base_file: fC743.txt
+      order: 2
+      parent: Calling the Guru from Afar
+    fFC4A:
+      title: Advice in a Single Statement (from Khenpo Ngawang Palzang)
+      base_file: fFC4A.txt
+      order: 3
+      parent: Dzogchen
+    fA119:
+      title: The Five Wisdoms
+      base_file: fA119.txt
+      order: 4
+      parent: Dzogchen
+    f4C1C:
+      title: Prayer to Pema Tötreng Tsal
+      base_file: f4C1C.txt
+      order: 5
+      parent: Guru Rinpoche Prayers
+    fB820:
+      title: Brief Succession of Lives Prayer
+      base_file: fB820.txt
+      order: 6
+      parent: Prayers
+    f7334:
+      title: Prayer for this Life, the Next and the Bardos
+      base_file: f7334.txt
+      order: 7
+      parent: Prayers
+    f491A:
+      title: Prayer to Khenpo Ngawang Palzang
+      base_file: f491A.txt
+      order: 8
+      parent: Prayers
+    fA53B:
+      title: Brief Homage to the Twenty-One Tārās
+      base_file: fA53B.txt
+      order: 9
+      parent: Tārā
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
